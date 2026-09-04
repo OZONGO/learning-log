@@ -15,3 +15,4 @@
 | `first-session.md` | 变量是标签不是盒子、`input()` 返回 str、f-string 与 `:.2f` | 2026-09-02 | 完成 |
 | `python-流程控制.md` | bool 与比较、`//` `%` `**`、and/or/not、if-elif-else、while+break/continue、for+range | 2026-09-02 | 完成 |
 | `python-输入校验与字符串陷阱.md` | `isdigit()` 门卫、字符串不可变、沉默型 bug、自定校验规则 | 2026-09-03 | 完成 |
+| `python-容器与词频统计.md` | list 可变/tuple 不可变、切片左闭右开、enumerate 解包、dict 哈希与键不可变、sorted+key/lambda、词频统计三拼图 | 2026-09-04 | 完成（正文誊自当日口答） |
