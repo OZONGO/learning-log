@@ -1,4 +1,4 @@
-text = open(r"E:\AI\workspace\L\learning-log\python-100\sample.txt", encoding="utf-8").read()
+text = open(r"E:\AI\workspace\L\learning-log\python-100\w2\sample.txt", encoding="utf-8").read()
 
 words = text.split()
 counts = {}
@@ -9,3 +9,4 @@ for i in range(len(words)):
 sorted_counts = sorted(counts.items(), key=lambda item: item[1], reverse=True)
 for word, count in sorted_counts[:10]:
     print(f"{word}: {count}")
+
