@@ -16,3 +16,5 @@
 | `python-流程控制.md` | bool 与比较、`//` `%` `**`、and/or/not、if-elif-else、while+break/continue、for+range | 2026-09-02 | 完成 |
 | `python-输入校验与字符串陷阱.md` | `isdigit()` 门卫、字符串不可变、沉默型 bug、自定校验规则 | 2026-09-03 | 完成 |
 | `python-容器与词频统计.md` | list 可变/tuple 不可变、切片左闭右开、enumerate 解包、dict 哈希与键不可变、sorted+key/lambda、词频统计三拼图 | 2026-09-04 | 完成（正文誊自当日口答） |
+
+> 注（2026-09-05 新增）：各笔记文件头已加 YAML frontmatter（id/created/topic/weakness_ids，静态元数据）；复习排程与状态见 `../review/queue.md`（唯一活跃真相源），弱点登记见 `../review/weaknesses.md`。

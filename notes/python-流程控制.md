@@ -1,3 +1,11 @@
+---
+id: N002
+title: 流程控制与运算符
+created: 2026-09-02
+topic: python-basics
+weakness_ids: []
+---
+
 # W1 预习：流程控制与运算符（2026-09-02）
 
 > 起草：AI ｜ 内容确认：OZONGO

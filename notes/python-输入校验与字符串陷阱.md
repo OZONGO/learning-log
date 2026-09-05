@@ -1,3 +1,11 @@
+---
+id: N003
+title: 输入校验与字符串陷阱
+created: 2026-09-03
+topic: python-basics
+weakness_ids: [WK002, WK003, WK004, WK005]
+---
+
 # W1 实战：输入校验与字符串陷阱（2026-09-03）
 
 > 起草：AI ｜ 内容确认：OZONGO

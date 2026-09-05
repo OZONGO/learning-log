@@ -1,3 +1,11 @@
+---
+id: N004
+title: 容器与词频统计
+created: 2026-09-04
+topic: python-basics
+weakness_ids: []
+---
+
 # W2 预习：容器（list/tuple/dict）与词频统计（2026-09-04）
 
 > 起草：AI ｜ 内容确认：OZONGO

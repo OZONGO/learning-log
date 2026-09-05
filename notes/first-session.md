@@ -1,3 +1,11 @@
+---
+id: N001
+title: 首次 AI 教练会话记录
+created: 2026-09-02
+topic: python-basics
+weakness_ids: [WK001, WK002]
+---
+
 # 首次 AI 教练会话记录（2026-09-02）
 
 > 起草：AI ｜ 内容确认：OZONGO
