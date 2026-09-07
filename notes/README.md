@@ -18,5 +18,6 @@
 | `python-容器与词频统计.md` | list 可变/tuple 不可变、切片左闭右开、enumerate 解包、dict 哈希与键不可变、sorted+key/lambda、词频统计三拼图 | 2026-09-04 | 完成（正文誊自当日口答） |
 | `python-容器进阶与词频完整版.md` | set 去重与准入（同 dict 键规矩）、嵌套剥层（dict 方括号找键≠list 找位置）、列表推导式=for+append（实验等价）、Counter=dict 子类、词频完整版（isdigit 闸+双版对账）、报错词族 subscriptable | 2026-09-05 | 完成（正文誊自当日口答） |
 | `python-遍历工具与成绩单分析.md` | enumerate/zip 职责与选型、zip 静默截断、嵌套 dict 聚合、同分并列"占号跳号"（same 计数器拉回组首）、预测→运行→修正、DoD 手算对照 | 2026-09-05 | 脚手架就绪（三/四节待本人填写） |
+| `python-函数默认值陷阱.md` | 默认值 def 时求值一次（`__defaults__` 为证）、None 哨兵＋体内新建、传参＝同对象双标签、收口公式"每次都要新的写进体内" | 2026-09-07 | 一~三节誊自本人口答（四节待本人填写） |
 
 > 注（2026-09-05 新增）：各笔记文件头已加 YAML frontmatter（id/created/topic/weakness_ids，静态元数据）；复习排程与状态见 `../review/queue.md`（唯一活跃真相源），弱点登记见 `../review/weaknesses.md`。
