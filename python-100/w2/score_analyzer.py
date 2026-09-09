@@ -32,7 +32,8 @@ print(f"数学平均分为{Math_avg}，最高分为{max(Math_score)}")
 print(f"英语平均分为{English_avg}，最高分为{max(English_score)}")
 sorted_avg_score = sorted(avg_score.items(), key=lambda item: item[1], reverse=True)
 print("学生平均分排序（从高到低）：")
-temp = 0
+# temp = 0
+temp = None
 same = 0
 for rank,(name,avg) in enumerate(sorted_avg_score, start=1):
     if avg == temp:
