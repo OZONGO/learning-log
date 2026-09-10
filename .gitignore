@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+
+# 程序运行产物与实验临时文件（不是学习产出，不入库）
+python-100/w3/notes_lab.txt
+python-100/w3/book_lab.json
+python-100/w3/contacts.json
+python-100/w3/contacts.json.broken*
