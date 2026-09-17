@@ -6,12 +6,6 @@ import os
 MODE = os.environ.get("MODE", "1")
 
 
-def section(title):
-    print("\n" + "=" * 64)
-    print(title)
-    print("=" * 64)
-
-
 #实验1  
 # a. Dog("旺柴").speak() → 走 Animal.speak（Dog 没写），打出 "旺柴 发出声音"。
 #     name 是 Dog 实例通过继承来的 Animal.__init__ 存的。
