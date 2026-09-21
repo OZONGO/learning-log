@@ -10,3 +10,7 @@ python-100/w3/contacts.json.broken*
 # dir_report.py 的验收靶：全部由 make_samples.py 现造，入库的应是脚本而不是靶
 python-100/w4/demo_dir/
 python-100/w4/probe_empty/
+
+# json_lab.py 实验 3/4 的运行产物（同上：脚本入库，产物不入库；e3_3 系 GBK 字节，更不该进公开仓库）
+python-100/w4/e3_*.json
+python-100/w4/e4_*.json
