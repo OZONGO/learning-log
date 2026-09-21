@@ -11,6 +11,6 @@ python-100/w3/contacts.json.broken*
 python-100/w4/demo_dir/
 python-100/w4/probe_empty/
 
-# json_lab.py 实验 3/4 的运行产物（同上：脚本入库，产物不入库；e3_3 系 GBK 字节，更不该进公开仓库）
-python-100/w4/e3_*.json
-python-100/w4/e4_*.json
+# json_lab.py 实验 3/4/6/7 的运行产物（同上：脚本入库，产物不入库；GBK 字节的靶更不该进公开仓库）
+# 用字符类一次盖住 e3_–e9_，后续加实验不必再回来补行
+python-100/w4/e[0-9]_*.json
