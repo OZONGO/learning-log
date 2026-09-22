@@ -14,3 +14,6 @@ python-100/w4/probe_empty/
 # json_lab.py 实验 3/4/6/7 的运行产物（同上：脚本入库，产物不入库；GBK 字节的靶更不该进公开仓库）
 # 用字符类一次盖住 e3_–e9_，后续加实验不必再回来补行
 python-100/w4/e[0-9]_*.json
+
+# cli_lab.py 实验 1 的 --help 重定向产物：留盘作"--help 走 stdout"的物证，不入库
+python-100/w4/help.txt
